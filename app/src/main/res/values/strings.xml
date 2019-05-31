@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="usual">Обычный</string>
+    <string name="engineering">Инженерный</string>
+    <string name="clear">C</string>
+    <string name="negate">±</string>
+    <string name="percent">%</string>
+    <string name="division">÷</string>
+    <string name="number7">7</string>
+    <string name="number8">8</string>
+    <string name="number9">9</string>
+    <string name="multiplication">×</string>
+    <string name="number4">4</string>
+    <string name="number5">5</string>
+    <string name="number6">6</string>
+    <string name="subtraction">−</string>
+    <string name="number1">1</string>
+    <string name="number2">2</string>
+    <string name="number3">3</string>
+    <string name="addition">+</string>
+    <string name="number0">0</string>
+    <string name="point">.</string>
+    <string name="calculate">=</string>
+    <string name="sin">sin</string>
+    <string name="sqrt">√</string>
+    <string name="cos">cos</string>
+    <string name="pow">^</string>
+    <string name="tan">tan</string>
+    <string name="factorial">!</string>
+    <string name="log">log</string>
+    <string name="pi">π</string>
+    <string name="ln">ln</string>
+    <string name="e">e</string>
+</resources>
